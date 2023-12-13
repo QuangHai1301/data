@@ -1,0 +1,175 @@
+{
+    "ListQuestion": [
+        {
+            "id": 0,
+            "Question": "Đâu không phải là loài động vật có sừng?",
+            "Answer1": "Sư tử",
+            "Answer2": "Tê giác",
+            "Answer3": "Linh dương",
+            "Answer4": "Tuần lộc",
+            "Result": 2
+        },
+        {
+            "id": 1,
+            "Question": "Trong các câu chuyện cổ tích, phù thủy thường đi lại bằng cách nào?",
+            "Answer1": "Cưỡi tuần lộc",
+            "Answer2": "Cưỡi chổi",
+            "Answer3": "Cưỡi thảm",
+            "Answer4": "Cưỡi mây",
+            "Result": 2
+        },
+        {
+            "id": 2,
+            "Question": "Loài chim nào sau đây bắt trước được tiếng người?",
+            "Answer1": "Chích bông",
+            "Answer2": "Họa mi",
+            "Answer3": "Quạ",
+            "Answer4": "Vẹt",
+            "Result": 5
+        },
+        {
+            "id": 3,
+            "Question": "Thành ngữ nào nói về việc chịu đựng gian nan, vất vả để mưu cầu việc lớn?",
+            "Answer1": "Lưỡi sắc hơn gươm",
+            "Answer2": "Tre non dễ uốn",
+            "Answer3": "Nằm gai nêm mật",
+            "Answer4": "Mật ngọt chết người",
+            "Result": 4
+        },
+        {
+            "id": 4,
+            "Question": "Logo hiện tại của câu lạc bộ bóng đá nào sau đây có hình con sư tử?",
+            "Answer1": "Chelsea",
+            "Answer2": "Arsenal",
+            "Answer3": "Leverpool",
+            "Answer4": "Manchester United",
+            "Result": 2
+        },
+        {
+            "id": 5,
+            "Question": "Đâu không phải là loài động vật có sừng?",
+            "Answer1": "Sư tử",
+            "Answer2": "Tê giác",
+            "Answer3": "Linh dương",
+            "Answer4": "Tuần lộc",
+            "Result": 1
+        },
+        {
+            "id": 6,
+            "Question": "2 con vịt đi trước 2 con vịt, 2 con vịt đi sau 2 con vịt, 2 con vịt đi giữa 2 con vịt. Hỏi có mấy con vịt? ",
+            "Answer1": "4",
+            "Answer2": "6",
+            "Answer3": "8",
+            "Answer4": "10",
+            "Result": 2
+        },
+        {
+            "id": 7,
+            "Question": "Bảy chú lùn trong truyện cổ tích 'Nàng Bạch Tuyết và bảy chú lùn' làm nghề gì? ",
+            "Answer1": "Thợ rèn",
+            "Answer2": "Thợ mỏ",
+            "Answer3": "Thợ săn",
+            "Answer4": "Thợ may",
+            "Result": 4
+        },
+        {
+            "id": 9,
+            "Question": "Đâu là tên một truyện cổ tích nổi tiếng?",
+            "Answer1": "Chú mèo đi tông",
+            "Answer2": "Chú mèo đi chơi",
+            "Answer3": "Chú mèo đi bốt",
+            "Answer4": "Chú mèo đi hia",
+            "Result": 5
+        },
+        {
+            "id": 10,
+            "Question": "Đâu là loại cháo khác với các món còn lại?",
+            "Answer1": "Cháo gà ",
+            "Answer2": "Cháo bò",
+            "Answer3": "Cháo vịt",
+            "Answer4": "Cháo heo",
+            "Result": 5
+        },
+        {
+            "id": 11,
+            "Question": "Đâu là sáng tác của Sơn Tùng MTP?",
+            "Answer1": "Nơi này có thím",
+            "Answer2": "Nơi này có chị",
+            "Answer3": "Nơi này có anh",
+            "Answer4": "Nơi này có chú",
+            "Result": 4
+        },
+        {
+            "id": 12,
+            "Question": "Đâu là tên một loại mũ?",
+            "Answer1": "Lưỡi hái",
+            "Answer2": "Lưỡi trai",
+            "Answer3": "Lưỡi lê",
+            "Answer4": "Lưỡi rắn",
+            "Result": 3
+        },
+        {
+            "id": 13,
+            "Question": "Người ta thường nấu canh cua với thứ gì?",
+            "Answer1": "Củ cải",
+            "Answer2": "Rau đay",
+            "Answer3": "Mộc nhĩ",
+            "Answer4": "Xúp lơ xanh",
+            "Result": 3
+        },
+        {
+            "id": 14,
+            "Question": " 'Bu' là gì?",
+            "Answer1": "Một loại khóa",
+            "Answer2": "Mẹ",
+            "Answer3": "Một điệu hất",
+            "Answer4": "Một loại gia vị",
+            "Result": 3
+        },
+        {
+            "id": 15,
+            "Question": " 'Thính' được làm từ gì? ",
+            "Answer1": "Gạo",
+            "Answer2": "Mía",
+            "Answer3": "Thịt",
+            "Answer4": "Củ cải",
+            "Result": 2
+        },
+        {
+            "id": 16,
+            "Question": "Đoạn sông Hồng chảy qua Việt Nam có độ dài bao nhiêu km?",
+            "Answer1": "1000",
+            "Answer2": "1050",
+            "Answer3": "1100",
+            "Answer4": "1150",
+            "Result": 4
+        },
+        {
+            "id": 17,
+            "Question": "Sa mạc nào được công nhận là một trong 7 kỳ quan thiên nhiên của châu Phi?",
+            "Answer1": "Sa mạc Sahara",
+            "Answer2": "Sa mạc Namib",
+            "Answer3": "Sa mạc Kalahari",
+            "Answer4": "Sa mạc Gobi",
+            "Result": 2
+        },
+        {
+            "id": 18,
+            "Question": "Ai là người đầu tiên bước chân lên Mặt Trăng?",
+            "Answer1": "Neil Armstrong",
+            "Answer2": "Buzz Aldrin",
+            "Answer3": "Yuri Gagarin",
+            "Answer4": "Alan Shepard",
+            "Result": 2
+        },
+        {
+            "id": 19,
+            "Question": "World Cup diễn ra mỗi bao lâu?",
+            "Answer1": "2 năm",
+            "Answer2": "4 năm",
+            "Answer3": "6 năm",
+            "Answer4": "8 năm",
+            "Result": 3
+        }
+    ]
+}
